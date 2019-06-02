@@ -70,4 +70,8 @@
          #navbar a .menu-icon{
             visibility: visible;
          }
+
+         #logo h1 h2 {
+            visibility: hidden;
+         }
       }
