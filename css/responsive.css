@@ -52,7 +52,11 @@
 
        .border-right{
           border-right: 0;
-          
+
+       }
+
+       #details div {
+          height: auto
        }
 
    }
