@@ -73,5 +73,11 @@
 
          #logo h1 h2 {
             visibility: hidden;
-         }
+        }
+
+        #social #logo {
+           float: left;
+           margin: 10px;
+
+        }
       }
